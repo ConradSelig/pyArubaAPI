@@ -1,3 +1,7 @@
+# API Reference
+### uiGetStatus
+
+
 # Setting up Tests
 
 For tests to work, you must be on a network that has access to an HP Aruba network switch. You'll also need credentials
@@ -19,5 +23,5 @@ _globals.py_ should contain the following, with your own details substituted for
 ```python
 switch_ip = '192.168.0.2'
 switch_username = 'manager'
-switch_password = 'password'
+switch_password = 'foobar'
 ```  
